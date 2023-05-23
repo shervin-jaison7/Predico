@@ -1,4 +1,4 @@
-# Predico-health
+# Predico-AI Based Multiple Disease Predictor
 ### General Disease Prediction based on symptoms provided by patient- powered by Django & Machine Learning
 
 # How To Use This
