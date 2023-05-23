@@ -1,5 +1,5 @@
 # Predico-AI Based Multiple Disease Predictor
-### General Disease Prediction based on symptoms provided by patient- powered by Django & Machine Learning
+### General Disease Prediction based on symptoms provided by patient- powered by AI, Django & Machine Learning
 
 # How To Use This
 First make sure PostgreSQL and pgadmin is install in your system. 
